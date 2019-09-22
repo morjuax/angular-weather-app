@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "postinstall": "npm run ng",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
